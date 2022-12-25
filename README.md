@@ -1,5 +1,5 @@
-### Kelompok : 6
 ### Dosen Pengampu : Wildan Budiaawan Zulfikar, S.T, M.Kom.
+### Kelompok : 6
 ### Database : Apache Cassandra
 ### Kelas : Manajemen Basis Data - B
 ### Link YouTube : https://www.youtube.com/watch?v=OQDYOgOASAM
